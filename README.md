@@ -1,12 +1,12 @@
 # Vuejs & TailwindCSS Portfolio - With Dark Mode
 
-A simple portfolio starter theme built with Vue.js v3 and TailwindCSS v2.
-
 ![Vuejs-TailwindCSS-Portfolio](https://user-images.githubusercontent.com/16396664/140909796-815239e4-a986-46ad-bbd0-4b166127bbb8.JPG)
 
-## Demo URL
+## 🚀Deployment
 
-[https://vuejs-tailwindcss-portfolio.netlify.com](https://vuejs-tailwindcss-portfolio.netlify.com)
+- [Visit me I'm Deployed with 💖 & Netlify](https://moeltahir.netlify.app/).
+
+<br>
 
 ## 👨‍💻Features & Tools
 
@@ -24,10 +24,6 @@ A simple portfolio starter theme built with Vue.js v3 and TailwindCSS v2.
 - Dynamic forms
 - Back to top button
 - Download file button
-
-## 🚀Deployment
-
-- Deployed with 💖 & Netlify.
 
 ## ⚒Installation
 
