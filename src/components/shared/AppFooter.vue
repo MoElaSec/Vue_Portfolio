@@ -77,7 +77,7 @@ export default {
 				},
 				{
 					id: 3,
-					name: 'Medium',
+					name: 'Blog',
 					icon: 'book',
 					url: 'https://mo-ela.gitbook.io/shifrablog/pentesting/ejpt',
 				},
