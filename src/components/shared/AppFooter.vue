@@ -19,6 +19,7 @@
 						:key="social.id"
 						:href="social.url"
 						target="__blank"
+						rel="noopener noreferrer"
 						class="text-gray-400 hover:text-indigo-500 dark:hover:text-indigo-400 cursor-pointer rounded-lg bg-gray-50 dark:bg-ternary-dark hover:bg-gray-100 shadow-sm∫ p-4"
 					>
 						<i
@@ -34,18 +35,20 @@
 				<div class="text-lg text-ternary-dark dark:text-ternary-light ">
 					&copy; {{ copyrightDate }}.
 					<a
-						href="https://github.com/realstoman/vuejs-tailwindcss-portfolio"
+						href="https://github.com/MoElaSec/Vue_Portfolio"
 						target="__blank"
+						rel="noopener noreferrer"
 						class="hover:underline"
 					>
 						Vue.js & TailwindCSS Portfolio
 					</a>
 					.
 					<a
-						href="https://stoman.me"
+						href="https://mo-ela.gitbook.io/"
 						target="__blank"
+						rel="noopener noreferrer"
 						class="text-secondary-dark dark:text-secondary-light font-medium uppercase hover:underline"
-						>Stoman</a
+						>Mo Eltahir</a
 					>
 				</div>
 			</div>
@@ -64,25 +67,25 @@ export default {
 					id: 1,
 					name: 'GitHub',
 					icon: 'github',
-					url: 'https://github.com/realstoman',
+					url: 'https://github.com/MoElaSec',
 				},
 				{
 					id: 2,
 					name: 'Twitter',
 					icon: 'twitter',
-					url: 'https://twitter.com/realstoman',
+					url: 'https://twitter.com/ShifraSec',
 				},
 				{
 					id: 3,
 					name: 'Medium',
 					icon: 'book',
-					url: 'https://stoman.medium.com',
+					url: 'https://mo-ela.gitbook.io/shifrablog/pentesting/ejpt',
 				},
 				{
 					id: 4,
 					name: 'Instagram',
 					icon: 'instagram',
-					url: 'https://instagram.com/realstoman',
+					url: '#',
 				},
 			],
 		};
