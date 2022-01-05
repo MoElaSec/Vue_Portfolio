@@ -9,7 +9,7 @@
 				<counter
 					ref="counter"
 					:startAmount="0"
-					:endAmount="12"
+					:endAmount="3"
 					:duration="1"
 					:autoinit="true"
 					@finished="alert(`Counting finished!`)"
@@ -27,16 +27,16 @@
 				<counter
 					ref="counter"
 					:startAmount="0"
-					:endAmount="20"
+					:endAmount="400"
 					:duration="1"
-					suffix="k+"
+					suffix="+"
 					:autoinit="true"
 					@finished="alert(`Counting finished!`)"
 					class="text-4xl font-bold text-secondary-dark dark:text-secondary-light mb-2"
 				/>
 				<span
 					class="block text-md text-ternary-dark dark:text-ternary-light"
-					>Stars on GitHub</span
+					>Contributions on GitHub</span
 				>
 			</div>
 
@@ -63,8 +63,9 @@
 				<counter
 					ref="counter"
 					:startAmount="0"
-					:endAmount="77"
+					:endAmount="60"
 					:duration="1"
+					suffix="+"
 					:autoinit="true"
 					@finished="alert(`Counting finished!`)"
 					class="text-4xl font-bold text-secondary-dark dark:text-secondary-light mb-2"
