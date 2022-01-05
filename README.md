@@ -1,6 +1,6 @@
 # Vuejs & TailwindCSS Portfolio - With Dark Mode
 
-![Vuejs-TailwindCSS-Portfolio](https://user-images.githubusercontent.com/16396664/140909796-815239e4-a986-46ad-bbd0-4b166127bbb8.JPG)
+![Vuejs-TailwindCSS-Portfolio](https://user-images.githubusercontent.com/48570596/148285614-a1d7a876-84a3-4099-b17d-a453a02a84fa.png)
 
 ## 🚀Deployment
 
