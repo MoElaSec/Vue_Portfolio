@@ -47,7 +47,7 @@ export default {
 			default: () => [
 				'Web Application',
 				'Mobile Application',
-				'UI/UX Design',
+				'Penetration testing',
 				'Branding & Animations',
 			],
 		},

@@ -127,8 +127,8 @@ export default {
 				},
 				{
 					id: 3,
-					value: 'ui-ux',
-					name: 'UI/UX Design',
+					value: 'pentesting',
+					name: 'Penetration testing',
 				},
 				{
 					id: 4,
