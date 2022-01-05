@@ -25,6 +25,13 @@
 - Back to top button
 - Download file button
 
+## 🤘Credits
+
+While building I used:
+
+- Illustrations from [unDraw](https://undraw.co/)
+- Images from [Unsplash](https://unsplash.com/)
+
 ## ⚒Installation
 
 1. ##### Make sure you have Node JS installed. If you don't have it:
