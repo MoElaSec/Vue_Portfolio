@@ -63,7 +63,7 @@ export default {
 					img: require('@/assets/images/brands/canon_gray.png'),
 				},
 				{
-					id: 7,
+					id: 8,
 					title: 'PUMA',
 					img: require('@/assets/images/brands/puma_gray.png'),
 				},
