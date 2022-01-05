@@ -1,7 +1,8 @@
 const projects = [
 	{
 		id: 1,
-		title: 'Google Health Platform',
+		title: 'BDD: Automate Testing Web Applications',
+		url:"https://github.com/MoElaSec/Python_Behave_Selenium_WebApp_Auto_testing",
 		category: 'Web Application',
 		img: require('@/assets/images/web-project-2.jpg'),
 	},

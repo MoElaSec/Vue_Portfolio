@@ -7,10 +7,18 @@
 			:key="projectImage.id"
 		>
 			<img
+					:src="projectImage.img"
+					class="rounded-xl cursor-pointer shadow-lg sm:shadow-none"
+					alt="{{ projectImage.title }}"
+			/>
+			<!-- <img
 				:src="projectImage.img"
 				class="rounded-xl cursor-pointer shadow-lg sm:shadow-none"
 				alt="{{ projectImage.title }}"
-			/>
+				:href="project.url"
+				target="__blank"
+				rel="noopener noreferrer"
+			/> -->
 		</div>
 	</div>
 </template>

@@ -5,6 +5,13 @@
 		class="rounded-xl shadow-lg hover:shadow-xl cursor-pointer mb-10 sm:mb-0 bg-secondary-light dark:bg-ternary-dark"
 		aria-label="Single Project"
 	>
+
+	<!-- <a class="rounded-xl shadow-lg hover:shadow-xl cursor-pointer mb-10 sm:mb-0 bg-secondary-light dark:bg-ternary-dark"
+		aria-label="Single Project"
+		:href="project.url"
+		target="__blank"
+		rel="noopener noreferrer"> -->
+
 		<div>
 			<img
 				:src="project.img"
@@ -22,6 +29,7 @@
 				project.category
 			}}</span>
 		</div>
+	<!-- </a>	 -->
 	</router-link>
 </template>
 
