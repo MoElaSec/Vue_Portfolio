@@ -25,47 +25,47 @@ export default {
 	},
 	data: () => {
 		return {
-			clientsHeading: 'Some of the brands I worked with',
+			clientsHeading: 'Some of the Tools I worked with',
 			clients: [
 				{
 					id: 1,
-					title: 'Amazon',
-					img: require('@/assets/images/brands/amazon_gray.png'),
+					title: 'Python',
+					img: require('@/assets/images/brands/python.png'),
 				},
 				{
 					id: 2,
-					title: 'Sony',
-					img: require('@/assets/images/brands/sony_gray.png'),
+					title: 'C/C++',
+					img: require('@/assets/images/brands/c.png'),
 				},
 				{
 					id: 3,
-					title: 'Adidas',
-					img: require('@/assets/images/brands/adidas_gray.png'),
+					title: 'django',
+					img: require('@/assets/images/brands/django.png'),
 				},
 				{
 					id: 4,
-					title: 'FILA',
-					img: require('@/assets/images/brands/fila_gray.png'),
+					title: 'opencv',
+					img: require('@/assets/images/brands/opencv.png'),
 				},
 				{
 					id: 5,
-					title: 'NB',
-					img: require('@/assets/images/brands/nb_gray.png'),
+					title: 'BurpSuite',
+					img: require('@/assets/images/brands/BurpSuite.png'),
 				},
 				{
 					id: 6,
-					title: 'SAMSUNG',
-					img: require('@/assets/images/brands/samsung_gray.png'),
+					title: 'Kali Linux',
+					img: require('@/assets/images/brands/kali-linux.png'),
 				},
 				{
 					id: 7,
-					title: 'CANON',
-					img: require('@/assets/images/brands/canon_gray.png'),
+					title: 'metasploit',
+					img: require('@/assets/images/brands/metasploit.png'),
 				},
 				{
 					id: 8,
-					title: 'PUMA',
-					img: require('@/assets/images/brands/puma_gray.png'),
+					title: 'Unreal Engine',
+					img: require('@/assets/images/brands/unreal_engine.png'),
 				},
 			],
 		};
