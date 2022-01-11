@@ -36,7 +36,7 @@
 								</button>
 							</div>
 							<div class="modal-body p-5 w-full h-full">
-								<form class="max-w-xl m-4 text-left">
+								<form action="https://formspree.io/f/xnqwnlaz" method="POST" class="max-w-xl m-4 text-left">
 									<div class="mt-0">
 										<input
 											class="w-full px-5 py-2 border-1 border-gray-200 dark:border-secondary-dark rounded-md text-md dark:font-medium bg-secondary-light dark:bg-ternary-dark text-primary-dark dark:text-ternary-light"
