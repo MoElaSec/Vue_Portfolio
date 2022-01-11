@@ -36,7 +36,7 @@ export default {
 				{
 					id: 2,
 					bio:
-						'I began learning to code at the age of 14 and quickly became hooked to Web Development.On the side, I have always been fascinated by security researchers work and how they dive deeply into any target and reverse engineer it if the source code/Schematics aren\'t available. At 16, I began studying for the CEH (Certified Ethical Hacker) certification, and since then I\'ve learned a lot of new things and made a lot of new friends. At 17 I landed my first freelance contract job ...💖',
+						'I began learning to code at the age of 14 and quickly became hooked to Web Development.On the side, I have always been fascinated by security researchers work and how they dive deeply into any target and reverse engineer it if the source code/Schematics aren\'t available. At 16, I began studying for the CEH (Certified Ethical Hacker) certification, and since then I\'ve learned a lot of new things and made a lot of new friends. At 17 I landed my first freelance contract job...💖',
 				},
 			],
 		};
