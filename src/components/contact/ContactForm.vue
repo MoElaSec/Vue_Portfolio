@@ -3,6 +3,8 @@
 	<div class="w-full md:w-1/2">
 		<div class="leading-loose">
 			<form
+				action="https://formspree.io/f/xnqwnlaz"
+				method="POST"
 				class="max-w-xl m-4 p-6 sm:p-10 bg-secondary-light dark:bg-secondary-dark rounded-xl shadow-xl text-left"
 			>
 				<p
