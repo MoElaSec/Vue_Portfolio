@@ -1,16 +1,16 @@
 <template>
 	<!-- Single project -->
-	<router-link
+	<!-- <router-link
 		to="/projects/single-project"
 		class="rounded-xl shadow-lg hover:shadow-xl cursor-pointer mb-10 sm:mb-0 bg-secondary-light dark:bg-ternary-dark"
 		aria-label="Single Project"
-	>
+	> -->
 
-	<!-- <a class="rounded-xl shadow-lg hover:shadow-xl cursor-pointer mb-10 sm:mb-0 bg-secondary-light dark:bg-ternary-dark"
+	<a class="rounded-xl shadow-lg hover:shadow-xl cursor-pointer mb-10 sm:mb-0 bg-secondary-light dark:bg-ternary-dark"
 		aria-label="Single Project"
 		:href="project.url"
 		target="__blank"
-		rel="noopener noreferrer"> -->
+		rel="noopener noreferrer">
 
 		<div>
 			<img
@@ -29,8 +29,8 @@
 				project.category
 			}}</span>
 		</div>
-	<!-- </a>	 -->
-	</router-link>
+	</a>	
+	<!-- </router-link> -->
 </template>
 
 <script>

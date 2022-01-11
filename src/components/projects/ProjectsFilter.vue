@@ -46,7 +46,7 @@ export default {
 			type: Array,
 			default: () => [
 				'Web Application',
-				'Mobile Application',
+				'Bots',
 				'Penetration testing',
 				'Branding & Animations',
 			],
