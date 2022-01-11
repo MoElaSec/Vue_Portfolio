@@ -53,7 +53,7 @@ git clone https://github.com/MoElaSec/Vue_Portfolio
 3. ##### Open the project folder:
 
 ```
-cd vuejs-tailwindcss-portfolio
+cd Vue_Portfolio
 ```
 
 4. ##### Install packages and dependencies:
