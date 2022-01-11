@@ -132,8 +132,8 @@ export default {
 				},
 				{
 					id: 4,
-					value: 'branding',
-					name: 'Branding',
+					value: 'Image processing',
+					name: 'Image processing',
 				},
 			],
 		};
